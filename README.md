@@ -1,13 +1,7 @@
 <!-- HEADER SECTION -->
 <div align="center">
   <h1>Cyber Security Case Studies & Proof of Concepts</h1>
-  <p><b>Advanced Offensive Security • Threat Hunting & Attribution • Digital Forensics</b></p>
-  
-  <!-- BADGES -->
-  <img src="https://shields.io" alt="Experience">
-  <img src="https://shields.io" alt="Focus">
-  <img src="https://shields.io" alt="Sanitized">
-</div>
+  <p><b>Offensive Security • Threat Hunting & Attribution • Digital Forensics • OSINT & CTI Analyst</b></p>
 
 <br>
 
