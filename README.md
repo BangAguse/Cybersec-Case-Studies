@@ -1,4 +1,3 @@
-!-- HEADER SECTION -->
 <div align="center">
   <h1>Cyber Security Case Studies</h1>
   <p><b>Offensive Security • Threat Hunting & Attribution • Digital Forensics • OSINT & CTI Analyst</b></p>
