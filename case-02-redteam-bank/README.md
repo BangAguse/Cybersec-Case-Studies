@@ -88,6 +88,6 @@
 
 <ol>
   <li><b>Implement 802.1X Authentication:</b> Enforce strict Network Access Control (NAC) to ensure only white-listed, authenticated MAC addresses can bind to physical Ethernet ports or internal Wi-Fi access points.</li>
-  <li><b>Formalize Physical Access Protocols:</b> Mandate corporate token-based ID cards or explicit, independent multi-factor verification systems for external field techniciansâ€”completely independent of external consumer chat apps.</li>
+  <li><b>Formalize Physical Access Protocols:</b> Mandate corporate token-based ID cards or explicit, independent multi-factor verification systems for external field technicians”completely independent of external consumer chat apps.</li>
   <li><b>Strict Network Micro-Segmentation:</b> Isolate core banking systems, operational administrative offices, and general corporate Wi-Fi into strictly separated VLANs regulated by strict firewall rule-sets.</li>
 </ol>
