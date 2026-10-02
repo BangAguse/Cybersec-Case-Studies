@@ -1,7 +1,13 @@
-<!-- HEADER SECTION -->
+!-- HEADER SECTION -->
 <div align="center">
-  <h1>Cyber Security Case Studies & Proof of Concepts</h1>
+  <h1>Cyber Security Case Studies</h1>
   <p><b>Offensive Security • Threat Hunting & Attribution • Digital Forensics • OSINT & CTI Analyst</b></p>
+  
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-blue?style=for-the-badge&logo=shieldsecurity" alt="Experience">
+  <img src="https://img.shields.io/badge/Focus-Red%20Teaming%20%7C%20DFIR-red?style=for-the-badge" alt="Focus">
+  <img src="https://img.shields.io/badge/Sanitized-Yes-success?style=for-the-badge&logo=checkmarx" alt="Sanitized">
+</div>
 
 <br>
 
@@ -81,5 +87,5 @@
 <!-- CONTACT SECTION -->
 <div align="center">
   <h3>Let's Connect</h3>
-  <a href="mailto: muhammadagustriananda@gmail.com"><img src="https://shields.io" alt="Email"></a>
+  <a href="mailto:muhammadagustriananda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
